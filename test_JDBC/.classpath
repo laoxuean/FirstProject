@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Eclipse/jar/C3P0连接池jar包（完整版）/C3P0连接池jar包（完整版）/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Eclipse/jar/C3P0连接池jar包（完整版）/C3P0连接池jar包（完整版）/mchange-commons-java-0.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Eclipse/jar/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
